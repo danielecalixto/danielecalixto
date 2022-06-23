@@ -10,11 +10,6 @@ We can get in touch in English or Portuguese.
   <img align="center" alt="Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/danielecalixto">
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielecalixto&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ### TECHNOLOGIES
   
 <div style="display: inline_block"><br>
@@ -25,5 +20,14 @@ We can get in touch in English or Portuguese.
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-</div>          
+</div>   
+
+####
+
+<div align="center">
+  <a href="https://github.com/danielecalixto">
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielecalixto&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+       
 
