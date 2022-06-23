@@ -1,6 +1,6 @@
-## Hi, I'm Daniele! 
+## Hi, I'm Daniele! 💬
 
-### I'm a Web Full Stack Developer passionate about Back End.
+#### I'm a Web Full Stack Developer passionate about Back End.
 ### Graduated in Civil Engineering in a Brazilian Federal Center of Technology and studying Development by myself for three years. Now almost finishing a one year Web Full Stack Development course at Kenzie Academy.
 
 
