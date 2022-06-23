@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Daniele!
+
+## I'm a back end engineer from Brazil.
+
+<div>
+  <a href="https://www.linkedin.com/in/daniele-calixto-barros" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</div>
 
 <!--
 **danielecalixto/danielecalixto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +27,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielecalixto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-# TECHNOLOGIES
+### TECHNOLOGIES
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
