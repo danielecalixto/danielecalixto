@@ -1,10 +1,10 @@
-# Hi, I'm Daniele!
+## Hi, I'm Daniele!
 
-## I'm a back end engineer from Brazil.
+### I'm a back end engineer from Brazil.
 
-<div>
+<div style="display: inline_block">
   <a href="https://www.linkedin.com/in/daniele-calixto-barros" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img align="center" alt="Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </div>
 
 <!--
