@@ -33,20 +33,20 @@ We can get in touch in English or Portuguese. Reach me on Linkedin or by email: 
         --->
         
 ### PROJECTS
-<br>
-<br>
+
+
 #### Learning Django Projects
 Developed during Kenzie Academy course - 5th module
 Python - Django - Django Rest Framework - SQLite - Docker
-<br>
+
 1. [Animals for Pet Shop API](https://github.com/danielecalixto/pet-shop)
 2. [Movies Reviews API](https://github.com/danielecalixto/movies-reviews-api)
-<br>
-<br>
+
+
 #### Learning Node Projects
 Developed during Kenzie Academy course - 4th module
 JavaScrip - TypeScript - Node.js - Express.js - PostgreSQL - Docker
-<br>
+
 1. 
 
 
