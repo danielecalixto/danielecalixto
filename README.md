@@ -37,8 +37,9 @@ We can get in touch in English or Portuguese. Reach me on Linkedin or by email: 
 #### Learning Python and Django Projects
 Developed during Kenzie Academy course - 5th module
 
-[Animals for Pet Shop API](https://github.com/danielecalixto/pet-shop)
-[Movies Reviews API](https://github.com/danielecalixto/movies-reviews-api)
+1. [Animals for Pet Shop API](https://github.com/danielecalixto/pet-shop)
+2. [Movies Reviews API](https://github.com/danielecalixto/movies-reviews-api)
+<br>
 
 #### Learning JavaScript and Node.js/Express Projects
 Developed during Kenzie Academy course - 4th module
