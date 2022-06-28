@@ -11,7 +11,7 @@ We can get in touch in English or Portuguese. Reach me on Linkedin or by email: 
 </div>
 
 
-
+>
 ### TECHNOLOGIES
   
 <div style="display: inline_block"><br>
@@ -31,7 +31,7 @@ We can get in touch in English or Portuguese. Reach me on Linkedin or by email: 
   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielecalixto&layout=compact&langs_count=7&theme=dark"/>
  </div>
         --->
-        
+>        
 ### LEARNING TRAIL PROJECTS
 Developed during Kenzie Academy course - Back End modules
 
