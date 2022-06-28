@@ -24,7 +24,8 @@ We can get in touch in English or Portuguese.
 
 ####
 
--- <div align="center">
---  <a href="https://github.com/danielecalixto">
---  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielecalixto&layout=compact&langs_count=7&theme=dark"/>
--- </div>          
+<!--- <div align="center">
+  <a href="https://github.com/danielecalixto">
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielecalixto&layout=compact&langs_count=7&theme=dark"/>
+ </div>
+        --->
