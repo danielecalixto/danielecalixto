@@ -10,9 +10,9 @@ We can get in touch in English or Portuguese. Reach me on Linkedin or by email: 
   <img align="center" alt="Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </div>
 
+---
 
-
-> ### TECHNOLOGIES
+### TECHNOLOGIES
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -24,14 +24,14 @@ We can get in touch in English or Portuguese. Reach me on Linkedin or by email: 
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>          
 
-####
+---
 
 <!--- <div align="center">
   <a href="https://github.com/danielecalixto">
   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielecalixto&layout=compact&langs_count=7&theme=dark"/>
  </div>
         --->
->        
+        
 ### LEARNING TRAIL PROJECTS
 Developed during Kenzie Academy course - Back End modules
 
