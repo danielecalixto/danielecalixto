@@ -31,3 +31,16 @@ We can get in touch in English or Portuguese. Reach me on Linkedin or by email: 
   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielecalixto&layout=compact&langs_count=7&theme=dark"/>
  </div>
         --->
+        
+### PROJECTS
+
+#### Learning Python and Django Projects
+Developed during Kenzie Academy course - 5th module
+
+[Animals for Pet Shop API](https://github.com/danielecalixto/pet-shop)
+[Movies Reviews API](https://github.com/danielecalixto/movies-reviews-api)
+
+#### Learning JavaScript and Node.js/Express Projects
+Developed during Kenzie Academy course - 4th module
+
+
