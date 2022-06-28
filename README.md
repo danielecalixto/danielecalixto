@@ -46,7 +46,7 @@ Python - Django - Django Rest Framework - SQLite - Docker
 JavaScrip - TypeScript - Node.js - Express.js - PostgreSQL - Docker
 
 1. [First User CRUD](https://github.com/danielecalixto/first_crud)
-2. [SQL Training](https://github.com/danielecalixto/sql-food-orders)
+2. [SQL Training](https://github.com/danielecalixto/m4_entrega_sqlanches-danielecalixto)
 3. [Products and Categories](https://github.com/danielecalixto/products-categories)
 4. [User CRUD](https://github.com/danielecalixto/user-crud)
 
