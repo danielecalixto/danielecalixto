@@ -32,21 +32,21 @@ We can get in touch in English or Portuguese. Reach me on Linkedin or by email: 
  </div>
         --->
         
-### PROJECTS
+### LEARNING TRAIL PROJECTS
+Developed during Kenzie Academy course - Back End modules
 
-
-#### Learning Django Projects
-Developed during Kenzie Academy course - 5th module
+#### Django
 Python - Django - Django Rest Framework - SQLite - Docker
 
 1. [Animals for Pet Shop API](https://github.com/danielecalixto/pet-shop)
 2. [Movies Reviews API](https://github.com/danielecalixto/movies-reviews-api)
 
 
-#### Learning Node Projects
-Developed during Kenzie Academy course - 4th module
+#### Node.js
 JavaScrip - TypeScript - Node.js - Express.js - PostgreSQL - Docker
 
-1. 
-
+1. [First User CRUD](https://github.com/danielecalixto/first_crud)
+2. [SQL Training](https://github.com/danielecalixto/sql-food-orders)
+3. [Products and Categories](https://github.com/danielecalixto/products-categories)
+4. [User CRUD](https://github.com/danielecalixto/user-crud)
 
