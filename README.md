@@ -1,10 +1,11 @@
 ## Hi, I'm Daniele! 💬
 
 #### I'm a Web Full Stack Developer passionate about Back End.
+<a href="https://www.danielecalixto.com">danielecalixto.com</a>
 #### Graduated in Civil Engineering in a Brazilian Federal Center of Technology and studying Development by myself for three years. Now almost finishing a one year Web Full Stack Development course at Kenzie Academy.
 
 We can get in touch in English or Portuguese. Reach me on Linkedin or by email: danielecalixtob@gmail.com.
-<a href="https://www.danielecalixto.com">danielecalixto.com</a>
+
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/daniele-calixto-barros" />
